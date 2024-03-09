@@ -1,7 +1,8 @@
 # Codes for AMOGCN
 
 ## Introduction
-- This is an implement of AMOGCN with PyTorch, which was run on a machine with AMD R9-5900HX CPU, RTX 3080 16G GPU and 32G RAM. The corresponding paper is still under review.
+- This is an implement of AMOGCN with PyTorch, which was run on a machine with AMD R9-5900HX CPU, RTX 3080 16G GPU and 32G RAM. The corresponding paper has been accepted by Neural Networks.
+- *Chen, Zhaoliang and Wu, Zhihao and Zhong, Luying and Plant, Claudia and Wang, Shiping and Guo, Wenzhong. Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs. Neural Networks. in press, 2024*
 
 ## Requirements
 
